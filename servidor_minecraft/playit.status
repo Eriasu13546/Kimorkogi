@@ -1,360 +1,228 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732673119089 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732836395856 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXaOYAAAAAQAAAAEAAAAAAAAAAK4m-KODoCLmtF0rBg78AMSBXnaj3nxsUnpW9T3f6jfF
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673122219 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXaOYAAAAAQAAAAEAAAAAAAAAAK4m-KODoCLmtF0rBg78AMSBXnaj3nxsUnpW9T3f6jfF
+Failed to create guest login link
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673125295 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732836410981 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXaOYAAAAAQAAAAEAAAAAAAAAAK4m-KODoCLmtF0rBg78AMSBXnaj3nxsUnpW9T3f6jfF
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673128389 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXaOYAAAAAQAAAAEAAAAAAAAAAK4m-KODoCLmtF0rBg78AMSBXnaj3nxsUnpW9T3f6jfF
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GUaaAAAAAQAAAAEAAAAAAAAAAHwzdWLDiPbxsefv0BTEIhEnS_abzGU6jzdnhI9NfbK3
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673131453 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836414099 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXaOYAAAAAQAAAAEAAAAAAAAAAK4m-KODoCLmtF0rBg78AMSBXnaj3nxsUnpW9T3f6jfF
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673134520 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXd_cAAAAAQAAAAEAAAAAAAAAAEdXWGQyymDO6AeLzCR7piQ7VdoAcijyGHG8tAv8weJ_
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GUaaAAAAAQAAAAEAAAAAAAAAAHwzdWLDiPbxsefv0BTEIhEnS_abzGU6jzdnhI9NfbK3
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673137631 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836417157 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXd_cAAAAAQAAAAEAAAAAAAAAAEdXWGQyymDO6AeLzCR7piQ7VdoAcijyGHG8tAv8weJ_
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673140707 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXd_cAAAAAQAAAAEAAAAAAAAAAEdXWGQyymDO6AeLzCR7piQ7VdoAcijyGHG8tAv8weJ_
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GUaaAAAAAQAAAAEAAAAAAAAAAHwzdWLDiPbxsefv0BTEIhEnS_abzGU6jzdnhI9NfbK3
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673143763 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836420230 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXd_cAAAAAQAAAAEAAAAAAAAAAEdXWGQyymDO6AeLzCR7piQ7VdoAcijyGHG8tAv8weJ_
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673146832 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXd_cAAAAAQAAAAEAAAAAAAAAAEdXWGQyymDO6AeLzCR7piQ7VdoAcijyGHG8tAv8weJ_
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GUaaAAAAAQAAAAEAAAAAAAAAAHwzdWLDiPbxsefv0BTEIhEnS_abzGU6jzdnhI9NfbK3
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673149894 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836423300 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXhvjAAAAAQAAAAEAAAAAAAAAAIo_rX2rLhgi7KGhPLjpNOZVVCwm76Gybppe_K0-WOg7
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673153007 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXhvjAAAAAQAAAAEAAAAAAAAAAIo_rX2rLhgi7KGhPLjpNOZVVCwm76Gybppe_K0-WOg7
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GUaaAAAAAQAAAAEAAAAAAAAAAHwzdWLDiPbxsefv0BTEIhEnS_abzGU6jzdnhI9NfbK3
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673156069 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836426371 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXhvjAAAAAQAAAAEAAAAAAAAAAIo_rX2rLhgi7KGhPLjpNOZVVCwm76Gybppe_K0-WOg7
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673159125 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXhvjAAAAAQAAAAEAAAAAAAAAAIo_rX2rLhgi7KGhPLjpNOZVVCwm76Gybppe_K0-WOg7
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GYKxAAAAAQAAAAEAAAAAAAAAAKCS-8o3rOFW_OCXnPWD7CJnsCFxRBJrhl7xn7PYHSga
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673162192 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732836441522 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXhvjAAAAAQAAAAEAAAAAAAAAAIo_rX2rLhgi7KGhPLjpNOZVVCwm76Gybppe_K0-WOg7
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673165250 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXlfhAAAAAQAAAAEAAAAAAAAAAG6inDHQzJVThI9-DLCgTs9gHyFbjEwA7g7EKj19WwyO
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1Gb3oAAAAAQAAAAEAAAAAAAAAANssoKa7gRl1ubc1dRxQPr9LxuM5GfWtpd3aQNmKUEos
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673168356 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836444644 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXlfhAAAAAQAAAAEAAAAAAAAAAG6inDHQzJVThI9-DLCgTs9gHyFbjEwA7g7EKj19WwyO
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673171415 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXlfhAAAAAQAAAAEAAAAAAAAAAG6inDHQzJVThI9-DLCgTs9gHyFbjEwA7g7EKj19WwyO
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1Gb3oAAAAAQAAAAEAAAAAAAAAANssoKa7gRl1ubc1dRxQPr9LxuM5GfWtpd3aQNmKUEos
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673174489 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836447708 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXlfhAAAAAQAAAAEAAAAAAAAAAG6inDHQzJVThI9-DLCgTs9gHyFbjEwA7g7EKj19WwyO
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673177546 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXlfhAAAAAQAAAAEAAAAAAAAAAG6inDHQzJVThI9-DLCgTs9gHyFbjEwA7g7EKj19WwyO
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1Gb3oAAAAAQAAAAEAAAAAAAAAANssoKa7gRl1ubc1dRxQPr9LxuM5GfWtpd3aQNmKUEos
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673180624 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836450770 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXpP2AAAAAQAAAAEAAAAAAAAAAI_DxYYRKU0rjMBGzL-xvHdLPxsWHRydLWDK3kENcF9S
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673183764 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXpP2AAAAAQAAAAEAAAAAAAAAAI_DxYYRKU0rjMBGzL-xvHdLPxsWHRydLWDK3kENcF9S
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1Gb3oAAAAAQAAAAEAAAAAAAAAANssoKa7gRl1ubc1dRxQPr9LxuM5GfWtpd3aQNmKUEos
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673186830 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836453834 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXpP2AAAAAQAAAAEAAAAAAAAAAI_DxYYRKU0rjMBGzL-xvHdLPxsWHRydLWDK3kENcF9S
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673189892 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXpP2AAAAAQAAAAEAAAAAAAAAAI_DxYYRKU0rjMBGzL-xvHdLPxsWHRydLWDK3kENcF9S
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1Gb3oAAAAAQAAAAEAAAAAAAAAANssoKa7gRl1ubc1dRxQPr9LxuM5GfWtpd3aQNmKUEos
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673192962 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836456893 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXpP2AAAAAQAAAAEAAAAAAAAAAI_DxYYRKU0rjMBGzL-xvHdLPxsWHRydLWDK3kENcF9S
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673196024 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXtAXAAAAAQAAAAEAAAAAAAAAAME-R-dNfbWyEVk7y5KGnoVtogXxUGPm3A10sUIdVy4O
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GfnvAAAAAQAAAAEAAAAAAAAAALvQE-ynZ6dqky2n86w5E_48ylak5KMx1Fs91zQGFpsc
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673199129 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836460006 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXtAXAAAAAQAAAAEAAAAAAAAAAME-R-dNfbWyEVk7y5KGnoVtogXxUGPm3A10sUIdVy4O
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673202190 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXtAXAAAAAQAAAAEAAAAAAAAAAME-R-dNfbWyEVk7y5KGnoVtogXxUGPm3A10sUIdVy4O
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GfnvAAAAAQAAAAEAAAAAAAAAALvQE-ynZ6dqky2n86w5E_48ylak5KMx1Fs91zQGFpsc
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673205247 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836463064 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXtAXAAAAAQAAAAEAAAAAAAAAAME-R-dNfbWyEVk7y5KGnoVtogXxUGPm3A10sUIdVy4O
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673208302 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXtAXAAAAAQAAAAEAAAAAAAAAAME-R-dNfbWyEVk7y5KGnoVtogXxUGPm3A10sUIdVy4O
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GfnvAAAAAQAAAAEAAAAAAAAAALvQE-ynZ6dqky2n86w5E_48ylak5KMx1Fs91zQGFpsc
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673211369 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732836478182 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXwwTAAAAAQAAAAEAAAAAAAAAAOMIrLuUN4bnVdJCNXNOpdCtvkehlKtCvl1Tt8E8dyBA
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673214495 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXwwTAAAAAQAAAAEAAAAAAAAAAOMIrLuUN4bnVdJCNXNOpdCtvkehlKtCvl1Tt8E8dyBA
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1Gk0WAAAAAQAAAAEAAAAAAAAAAFtAkTCTb8sm_ZOV4cx22yhecPJNJWALreMmvfTPD1Re
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673217559 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836481288 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXwwTAAAAAQAAAAEAAAAAAAAAAOMIrLuUN4bnVdJCNXNOpdCtvkehlKtCvl1Tt8E8dyBA
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673220631 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXwwTAAAAAQAAAAEAAAAAAAAAAOMIrLuUN4bnVdJCNXNOpdCtvkehlKtCvl1Tt8E8dyBA
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1Gk0WAAAAAQAAAAEAAAAAAAAAAFtAkTCTb8sm_ZOV4cx22yhecPJNJWALreMmvfTPD1Re
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673223704 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836484369 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrXwwTAAAAAQAAAAEAAAAAAAAAAOMIrLuUN4bnVdJCNXNOpdCtvkehlKtCvl1Tt8E8dyBA
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673226764 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX0g4AAAAAQAAAAEAAAAAAAAAAHiWnw9zZMwDWRBwCiCYYs6XkOWfJfKxOBZcqHrO-spc
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1Gk0WAAAAAQAAAAEAAAAAAAAAAFtAkTCTb8sm_ZOV4cx22yhecPJNJWALreMmvfTPD1Re
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673229890 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836487430 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX0g4AAAAAQAAAAEAAAAAAAAAAHiWnw9zZMwDWRBwCiCYYs6XkOWfJfKxOBZcqHrO-spc
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673232947 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX0g4AAAAAQAAAAEAAAAAAAAAAHiWnw9zZMwDWRBwCiCYYs6XkOWfJfKxOBZcqHrO-spc
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1Gk0WAAAAAQAAAAEAAAAAAAAAAFtAkTCTb8sm_ZOV4cx22yhecPJNJWALreMmvfTPD1Re
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673236012 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836490507 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX0g4AAAAAQAAAAEAAAAAAAAAAHiWnw9zZMwDWRBwCiCYYs6XkOWfJfKxOBZcqHrO-spc
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673239079 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX0g4AAAAAQAAAAEAAAAAAAAAAHiWnw9zZMwDWRBwCiCYYs6XkOWfJfKxOBZcqHrO-spc
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1Gk0WAAAAAQAAAAEAAAAAAAAAAFtAkTCTb8sm_ZOV4cx22yhecPJNJWALreMmvfTPD1Re
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673242135 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836493576 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX4Q1AAAAAQAAAAEAAAAAAAAAACI2lA0CQV9M4g5RqCsuuBO8W5oorafszKyehrvwmS4_
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673245245 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX4Q1AAAAAQAAAAEAAAAAAAAAACI2lA0CQV9M4g5RqCsuuBO8W5oorafszKyehrvwmS4_
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1Gok4AAAAAQAAAAEAAAAAAAAAALIU1Tx2uocf9JBvwkrFENova_08SFDeQUFIYt1rPJAx
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673248304 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732836508759 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX4Q1AAAAAQAAAAEAAAAAAAAAACI2lA0CQV9M4g5RqCsuuBO8W5oorafszKyehrvwmS4_
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673251362 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX4Q1AAAAAQAAAAEAAAAAAAAAACI2lA0CQV9M4g5RqCsuuBO8W5oorafszKyehrvwmS4_
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GsSNAAAAAQAAAAEAAAAAAAAAACpIbkFz0QkZELpyZZIZ7SYlNAuw-XihCEX_cdQCQCVU
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673254417 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836511872 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX4Q1AAAAAQAAAAEAAAAAAAAAACI2lA0CQV9M4g5RqCsuuBO8W5oorafszKyehrvwmS4_
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673257477 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX8AjAAAAAQAAAAEAAAAAAAAAAPuakRoEIMhJ57HAecl0hjt35gAYn_bHDPo4BjPB-HH0
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GsSNAAAAAQAAAAEAAAAAAAAAACpIbkFz0QkZELpyZZIZ7SYlNAuw-XihCEX_cdQCQCVU
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673260582 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836514931 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX8AjAAAAAQAAAAEAAAAAAAAAAPuakRoEIMhJ57HAecl0hjt35gAYn_bHDPo4BjPB-HH0
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673263667 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX8AjAAAAAQAAAAEAAAAAAAAAAPuakRoEIMhJ57HAecl0hjt35gAYn_bHDPo4BjPB-HH0
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GsSNAAAAAQAAAAEAAAAAAAAAACpIbkFz0QkZELpyZZIZ7SYlNAuw-XihCEX_cdQCQCVU
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673266725 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836517990 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX8AjAAAAAQAAAAEAAAAAAAAAAPuakRoEIMhJ57HAecl0hjt35gAYn_bHDPo4BjPB-HH0
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673269779 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX8AjAAAAAQAAAAEAAAAAAAAAAPuakRoEIMhJ57HAecl0hjt35gAYn_bHDPo4BjPB-HH0
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GsSNAAAAAQAAAAEAAAAAAAAAACpIbkFz0QkZELpyZZIZ7SYlNAuw-XihCEX_cdQCQCVU
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673272831 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836521052 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX_wjAAAAAQAAAAEAAAAAAAAAAAk3vsrCkIwisdxppZjozhDJj0FJ-WrCZ1ZzG4B8pKtd
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673275979 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX_wjAAAAAQAAAAEAAAAAAAAAAAk3vsrCkIwisdxppZjozhDJj0FJ-WrCZ1ZzG4B8pKtd
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GsSNAAAAAQAAAAEAAAAAAAAAACpIbkFz0QkZELpyZZIZ7SYlNAuw-XihCEX_cdQCQCVU
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673279047 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836524114 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX_wjAAAAAQAAAAEAAAAAAAAAAAk3vsrCkIwisdxppZjozhDJj0FJ-WrCZ1ZzG4B8pKtd
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673282102 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX_wjAAAAAQAAAAEAAAAAAAAAAAk3vsrCkIwisdxppZjozhDJj0FJ-WrCZ1ZzG4B8pKtd
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GwCCAAAAAQAAAAEAAAAAAAAAAA9ivOqbzBJw1AgLmd1V71g6kTbtvkXZYZFFO5ORSvBB
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673285155 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836527232 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrX_wjAAAAAQAAAAEAAAAAAAAAAAk3vsrCkIwisdxppZjozhDJj0FJ-WrCZ1ZzG4B8pKtd
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673288217 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrYDg8AAAAAQAAAAEAAAAAAAAAAKlQDIpGq85c-lC6etzfRbMsTjdjHx41bTSvKTMSQeqK
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GwCCAAAAAQAAAAEAAAAAAAAAAA9ivOqbzBJw1AgLmd1V71g6kTbtvkXZYZFFO5ORSvBB
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673291331 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836530304 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrYDg8AAAAAQAAAAEAAAAAAAAAAKlQDIpGq85c-lC6etzfRbMsTjdjHx41bTSvKTMSQeqK
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673294396 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrYDg8AAAAAQAAAAEAAAAAAAAAAKlQDIpGq85c-lC6etzfRbMsTjdjHx41bTSvKTMSQeqK
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GwCCAAAAAQAAAAEAAAAAAAAAAA9ivOqbzBJw1AgLmd1V71g6kTbtvkXZYZFFO5ORSvBB
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673297461 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732836533379 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrYDg8AAAAAQAAAAEAAAAAAAAAAKlQDIpGq85c-lC6etzfRbMsTjdjHx41bTSvKTMSQeqK
-
-TUNNELS
-cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1732673300518 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZNrYDg8AAAAAQAAAAEAAAAAAAAAAKlQDIpGq85c-lC6etzfRbMsTjdjHx41bTSvKTMSQeqK
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GwCCAAAAAQAAAAEAAAAAAAAAAA9ivOqbzBJw1AgLmd1V71g6kTbtvkXZYZFFO5ORSvBB
 
 TUNNELS
 cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732836536443 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1GwCCAAAAAQAAAAEAAAAAAAAAAA9ivOqbzBJw1AgLmd1V71g6kTbtvkXZYZFFO5ORSvBB
+
+TUNNELS
+cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1732836551546 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1G2uxAAAAAQAAAAEAAAAAAAAAAED_fA4Hw2iTF3aX-TEyf0dyDY6KUpr3iSYKX8pFlwKt
+
+TUNNELS
+cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732836554671 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1G2uxAAAAAQAAAAEAAAAAAAAAAED_fA4Hw2iTF3aX-TEyf0dyDY6KUpr3iSYKX8pFlwKt
+
+TUNNELS
+cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732836557730 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1G2uxAAAAAQAAAAEAAAAAAAAAAED_fA4Hw2iTF3aX-TEyf0dyDY6KUpr3iSYKX8pFlwKt
+
+TUNNELS
+cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1732836560788 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA3IwwAAAZN1G2uxAAAAAQAAAAEAAAAAAAAAAED_fA4Hw2iTF3aX-TEyf0dyDY6KUpr3iSYKX8pFlwKt
+
+TUNNELS
+cancer-lies.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
